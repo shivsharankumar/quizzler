@@ -1,0 +1,12 @@
+com.example.quizzler.app-jetified-window-java-1.0.0-beta04-0 /Users/shiv/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.quizzler.app-core-1.6.0-1 /Users/shiv/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.quizzler.app-jetified-annotation-experimental-1.1.0-2 /Users/shiv/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.quizzler.app-jetified-window-1.0.0-beta04-3 /Users/shiv/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.quizzler.app-debug-4 /Users/shiv/Desktop/flutterProject/quizzler/android/app/src/debug/res
+com.example.quizzler.app-main-5 /Users/shiv/Desktop/flutterProject/quizzler/android/app/src/main/res
+com.example.quizzler.app-pngs-6 /Users/shiv/Desktop/flutterProject/quizzler/build/app/generated/res/pngs/debug
+com.example.quizzler.app-resValues-7 /Users/shiv/Desktop/flutterProject/quizzler/build/app/generated/res/resValues/debug
+com.example.quizzler.app-rs-8 /Users/shiv/Desktop/flutterProject/quizzler/build/app/generated/res/rs/debug
+com.example.quizzler.app-mergeDebugResources-9 /Users/shiv/Desktop/flutterProject/quizzler/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.quizzler.app-mergeDebugResources-10 /Users/shiv/Desktop/flutterProject/quizzler/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.quizzler.app-merged_res-11 /Users/shiv/Desktop/flutterProject/quizzler/build/app/intermediates/merged_res/debug
